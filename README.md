@@ -1,2 +1,16 @@
-# QUIZ-APP
-A simple multiple-choice quiz application with score calculation built using HTML, CSS, and JavaScript.
+# 🧠 Quiz App
+
+A simple quiz application built using JavaScript.
+
+## 🚀 Features
+- Multiple choice questions
+- Score calculation
+- Restart quiz option
+
+## 🛠 Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 👩‍💻 Author
+Gayu
